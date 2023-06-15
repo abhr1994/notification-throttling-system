@@ -24,6 +24,9 @@ To run the system and observe the results, follow these steps:
 
 Note: Make sure to review and update the configuration files (`client.properties`) and other necessary settings as per your specific environment and requirements before running the scripts.
 
+## Medium article link
+https://abhr1994.medium.com/user-notification-throttling-system-design-and-implementation-with-confluent-kafka-2755e02fbf64
+
 ## Contributions
 
 This project was inspired by a problem statement shared during the Confluent Kafka Data World Tour by Apna's platform team. I would like to extend our gratitude to them for their valuable insights.
